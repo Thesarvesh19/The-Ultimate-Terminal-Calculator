@@ -25,3 +25,5 @@ Beyond the features, I am particularly proud of the technical implementation. I 
 Even though it’s a console application, I wanted to create a more engaging user interface. I used **ANSI color codes** to build a dynamic, intuitive, and visually organized experience. Finally, a key focus for me was robust **error handling**. I implemented checks throughout the application to gracefully manage invalid user inputs, ensuring a smooth and crash-free operation.
 
 Thank you for checking out my project. I hope you find it to be a powerful, lightweight calculation utility and a clear showcase of my passion for building clean, efficient, and user-focused software in Java.
+
+updated readme as of 30 september 2026
