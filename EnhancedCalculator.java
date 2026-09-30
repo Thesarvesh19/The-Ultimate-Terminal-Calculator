@@ -216,3 +216,4 @@ public class EnhancedCalculator {
     }
 }
 
+//updated the code with more easy way as of 30 september 2026
